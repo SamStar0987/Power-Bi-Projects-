@@ -1,0 +1,27 @@
+" SUPERSTORE SALES ANALYTICS"
+
+Upon opening, you will see the main title of the dashboard indicating its focus (e.g., "Sales Overview," "HR Analytics").
+Navigation and Layout:
+
+Navigation Pane: On the left or at the top, there is usually a navigation pane with different report pages or tabs. These tabs could represent different aspects of the data, such as "Sales Performance," "Employee Metrics," etc.
+Filters and Slicers: At the top or on the right side, there are interactive filters or slicers allowing you to adjust the data view by various parameters (e.g., date range, region, department).
+Main Visualizations:
+
+Key Metrics: At the top of the dashboard, key performance indicators (KPIs) are often displayed, such as total sales, average tenure, or turnover rate.
+Charts and Graphs: Below the KPIs, there are various visualizations, including:
+Bar Charts: Showing comparisons between different categories (e.g., sales by region, employee count by department).
+Line Graphs: Displaying trends over time (e.g., monthly sales, employee hiring trends).
+Pie Charts: Representing proportions of a whole (e.g., sales by product category, employee gender distribution).
+Maps: If geographical data is involved, maps showing data distribution across different regions.
+Detailed Data Tables:
+
+At the bottom or in separate tabs, there are detailed tables providing granular data. These tables might include information such as individual sales transactions, employee records, or product details.
+Interactivity:
+
+All visualizations are interactive. Clicking on a specific data point in a chart may highlight related data in other charts or filter the entire dashboard to reflect that selection.
+You can use slicers to dynamically filter data across all visualizations for a more tailored view.
+Exporting and Sharing:
+
+Options to export data or visualizations, share the dashboard with colleagues, or create custom reports might be available, typically found in the top menu.
+For more specific details, you can explore the Power BI dashboard here......
+(https://app.powerbi.com/links/K1-ODEzbvg?ctid=ce79892a-e4b9-4947-a7bb-39cb62cec818&pbi_source=linkShare&bookmarkGuid=4d8e403a-1953-41ba-8e38-376275e4f2f1)
